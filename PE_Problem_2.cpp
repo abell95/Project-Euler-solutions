@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int fibonacci() {
+void fibonacci() {
     int x = 1;
     int y = 2;
     int z = x + y;
